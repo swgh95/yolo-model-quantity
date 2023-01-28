@@ -1,7 +1,6 @@
-<!--
-**SWGH1995** 
-started:
--->
+![](https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif)
+
 ### SWGH1995
 这是一个刚刚注册github小白的仓库，一切才刚刚开始
-* ✈️ my是一个连飞机都没坐过的人
+* ✈️ I'm someone who's never even been on a plane
+
