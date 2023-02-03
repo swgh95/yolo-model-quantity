@@ -11,4 +11,6 @@
 * 图片总数与被统计的txt文件的差额
 * 除classes.txt文件外总txt文件数量与被统计的txt的差额
 * 如有差额则直接显示检测到的文件
+#### 运行截图：
+![image](https://user-images.githubusercontent.com/123812490/216599549-b0895707-1ccf-4bfb-93ea-e7162711925d.png)
 #####  感谢您的使用！
